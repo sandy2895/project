@@ -1,4 +1,4 @@
-//poll scm
+//poll scm/ Webhook
 pipeline {
 agent {
 label {
